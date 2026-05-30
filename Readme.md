@@ -7,15 +7,20 @@ trois dernières lignes du f. 194r (pss 109, 110, 111), haec dies page suivante,
 
 identifiés :
 
-https://cantusindex.org/id/008414b
-https://cantusindex.org/id/507021 (cf. rite OP)
-https://cantusindex.org/id/ah53037 
-https://cantusindex.org/id/003943
-https://cantusindex.org/id/002589
+* https://cantusindex.org/id/008414b
+* https://cantusindex.org/id/507021 (cf. rite OP)
+* https://cantusindex.org/id/ah53037 
+* https://cantusindex.org/id/003943
+* https://cantusindex.org/id/002589
 
 comparaison avec le parisien :
-https://cantusdatabase.org/source/123631
-https://cantusdatabase.org/source/123631/chants/?feast=1688
-https://gallica.bnf.fr/ark:/12148/btv1b8447768b/f602.item.zoom
+
+* https://cantusdatabase.org/source/123631
+* https://cantusdatabase.org/source/123631/chants/?feast=1688
+* https://gallica.bnf.fr/ark:/12148/btv1b8447768b/f602.item.zoom
+* 
 => A/ Surrexit Christus super psalmos (les trois premiers) au lieu des alléluias chartrains
 
+Autres sources :
+
+https://archive.org/details/palographiemusic17macq/page/38/mode/2up
